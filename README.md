@@ -1,2 +1,2 @@
-socka
-=====
+sasadfasfsafgh
+int manin()
